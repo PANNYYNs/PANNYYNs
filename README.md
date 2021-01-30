@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+```
+My full name: Dischapongpoom Rattanapoomperm
+Name: Pan 
+University: Computer Science Chiang Mai University 
+```
 
 <!--
 **PANNYYNs/PANNYYNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
